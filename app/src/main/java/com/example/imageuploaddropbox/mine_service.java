@@ -133,7 +133,7 @@ public class mine_service extends Service {
 
 
 
-    private String ACCESS_TOKEN = "jFeYNiCjICYAAAAAAAAAAY2HSlrD6h1ylieA4A4HjY2TX8A5629z2t-MbQlHMmQh";
+    private String ACCESS_TOKEN = "EnterYourTokenHere";
     public static String TEXT1 = "";
     final String FILENAME = "file";
 
